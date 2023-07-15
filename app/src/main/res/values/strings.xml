@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mvvm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subtract">Subtract</string>
+    <string name="sum">Sum</string>
+    <string name="enter_second_num">Enter Second Num</string>
+    <string name="enter_number_one">Enter Number One</string>
+</resources>
